@@ -11,7 +11,7 @@
 - `outputs/adura_datahub_project2_olist_report.pdf`
 
 ### Visuals (PNG charts)
-See `outputs/`:
+See `output/`:
 - On-time rate trend (monthly)
 - Avg delivery days trend (monthly)
 - On-time rate by top states
